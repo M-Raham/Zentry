@@ -1,9 +1,9 @@
-import Hero from './components/Hero.jsx'
+import Hero from "./components/hero";
 
 const App = () => {
   return (
     <main>
-      <Hero/>
+      <Hero />
     </main>
   );
 };
