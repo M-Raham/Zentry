@@ -41,6 +41,7 @@ const Navbar = () => {
       duration: 0.2,
     });
   }, [isNavVisible]);
+
   // ------------> Audio
 
   const audioElementRef = useRef(null);
@@ -89,9 +90,10 @@ const Navbar = () => {
             </div>
 
             <button
-              className="ml-10 flex items-center space-x-0.5"
+              className="ml-10 flex items-center space-x-0.5 nav-hover-btn"
               onClick={toggeleAudioIndicator}
             >
+              <p className="mr-3">Music</p>
               <audio
                 ref={audioElementRef}
                 className="hidden"
