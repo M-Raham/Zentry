@@ -62,7 +62,7 @@ const Features = () => {
             src="videos/feature-1.mp4"
             title={
               <>
-                radi<b>n</b>t
+                radia<b>n</b>t
               </>
             }
             description="The game of games transforming your in-game actions into a rewarding adventure."
