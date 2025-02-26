@@ -5,12 +5,12 @@ const BentoTilt = ({ children, className = "", defaultOptions }) => {
     return (
       <Tilt
         options={{
-          max: 10, // Adjust tilt intensity
-          scale: 1.05, // Slight zoom effect
-          speed: 400, // Smooth animation
-          glare: true, // Adds light glare effect
+          max: 10,
+          scale: 1.05, 
+          speed: 400,
+          glare: true, 
           "max-glare": 0.1,
-          ...defaultOptions, // Merge user options
+          ...defaultOptions, 
         }}
         className={`overflow-hidden will-change-transform ${className}`}
       >
