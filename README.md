@@ -53,14 +53,6 @@ Contributions are **welcome!** Feel free to fork the repo, create a branch, and 
 
 ---
 
-## 📜 License  
-
-This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for details.  
-
-🚨 *Note: This project is a personal clone of [Zentry](https://zentry.com/) and is not affiliated with the original creators.*  
-
----
-
 ## 📧 Contact Me
 
 If you’d like to reach out, you can send me an email directly through the contact form on my website, powered by **EmailJS**.
@@ -77,4 +69,5 @@ Alternatively, connect with me on:
 
 ---
 
+🚨 *Note: This project is a personal clone of [Zentry](https://zentry.com/) and is not affiliated with the original creators.*  
 🎯 **Happy Coding!** 💻🚀
