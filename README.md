@@ -43,7 +43,7 @@ npm install
 npm run dev
 ```
 
-🖥️ Now, open **`http://localhost:3000`** in your browser.  
+🖥️ Now, open **`http://localhost:5173`** in your browser.  
 
 ---
 
