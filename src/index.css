@@ -12,6 +12,30 @@ body {
 }
 
 @layer base {
+  /* Scrollbar Track */
+  ::-webkit-scrollbar {
+    width: 7px; /* Thin scrollbar */
+  }
+
+  /* Scrollbar Thumb (Movable part) */
+  ::-webkit-scrollbar-thumb {
+    @apply bg-[#1a1a1a] rounded-full transition-opacity duration-300;
+    opacity: 0.6; /* Default opacity */
+  }
+
+  /* Scrollbar Track (Background) */
+  ::-webkit-scrollbar-track {
+    @apply bg-[#333]; /* Dark gray track */
+  }
+
+  /* Hover Effect on Thumb */
+  ::-webkit-scrollbar-thumb:hover {
+    opacity: 1; /* Fully visible on hover */
+  }
+}
+
+
+@layer base {
   @font-face {
     font-family: "circular-web";
     src: url("/fonts/circularweb-book.woff2") format("woff2");
