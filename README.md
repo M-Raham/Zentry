@@ -61,4 +61,20 @@ This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
+## 📧 Contact Me
+
+If you’d like to reach out, you can send me an email directly through the contact form on my website, powered by **EmailJS**.
+
+Alternatively, connect with me on:
+- **GitHub**: [M-Raham](https://github.com/M-Raham)
+- **LinkedIn**: [Muhammad Raham](https://www.linkedin.com/in/muhammad-raham/)
+
+---
+
+**🚀 Live Demo:** [Click here](https://m-raham.github.io/My-Portfolio/)
+
+💡 Feel free to ⭐ this repository if you like it!
+
+---
+
 🎯 **Happy Coding!** 💻🚀
