@@ -71,7 +71,7 @@ Alternatively, connect with me on:
 
 ---
 
-**🚀 Live Demo:** [Click here](https://m-raham.github.io/My-Portfolio/)
+**🚀 Live Demo:** [Click here](https://m-raham.github.io/Zentry/)
 
 💡 Feel free to ⭐ this repository if you like it!
 
