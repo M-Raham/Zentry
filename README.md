@@ -67,4 +67,3 @@ Contributions are **welcome!** Feel free to fork the repo, create a branch, and 
 ---
 
 🚨 *Note: This project is a personal clone of [Zentry](https://zentry.com/) and is not affiliated with the original creators.*  
-🎯 **Happy Coding!** 💻🚀
