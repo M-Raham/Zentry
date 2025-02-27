@@ -47,29 +47,6 @@ npm run dev
 
 ---
 
-## 🌍 Deployment  
-
-### **📦 Build the Application**  
-
-```bash
-npm run build
-```
-
-This will generate optimized static files in the **`dist`** directory.  
-
-### **🚀 Deploy to GitHub Pages**  
-
-Make sure the `gh-pages` branch exists, then run:  
-
-```bash
-npm run deploy
-```
-
-Your site will be available at:  
-🔗 `https://M-Raham.github.io/Zentry/`  
-
----
-
 ## 🤝 Contributing  
 
 Contributions are **welcome!** Feel free to fork the repo, create a branch, and submit a pull request.  
