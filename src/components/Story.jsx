@@ -2,7 +2,7 @@ import { useRef } from "react";
 import AnimatedTitle from "./AnimatedTitle";
 import gsap from "gsap";
 import RoundedCorners from "./RoundedCorners";
-import Button from "./Button";
+import Button from "./button";
 
 const Story = () => {
   const frameRef = useRef("null");
@@ -64,7 +64,7 @@ const Story = () => {
                   onMouseUp={handleMouseLeave}
                   onMouseEnter={handleMouseLeave}
                   onMouseMove={handleMouseMove}
-                  src="/img/entrance.webp"
+                  src="/Zentry/img/entrance.webp"
                   alt="etrance"
                   className="object-contain"
                 />
